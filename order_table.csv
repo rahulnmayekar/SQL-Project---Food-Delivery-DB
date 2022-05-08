@@ -1,0 +1,20 @@
+Order_Id,Employee_Id,Customer_Id,Restaurant_Id,Item_Name,Time,Order_Date,order_time,Order_Location,Order_Status,Order_Price,Order_Quantity
+1,FOO_EMP_2,FOO_1,R111,Kashmiri Pulao,13:51:19,25-11-2021,2021-11-25 13:51:19,"Shop No 24 Nirman Vyapar Kendra Sector 17 Krishi Bazaar, 400705, Mumbai, India",Delivered,260,2
+2,FOO_EMP_5,FOO_2,R108,Masala Dosa,12:40:22,28-11-2021,2021-11-28 12:40:22,"115  Sagar Bhavan Lohar Chawl, 400002, Mumbai, India",Delivered,90,1
+3,FOO_EMP_2,FOO_3,R102,New York Cheescake,18:48:09,10-12-2021,2021-12-10 18:48:09,"144  M.g.road Opp.bombay University Hutatma Chowk , 400023, Mumbai, India",Delivered,240,2
+4,FOO_EMP_5,FOO_4,R109,Spring Dosa,11:28:16,20-12-2021,2021-12-20 11:28:16,"274 rd Floor Pratik Arcade Nr Central Plaza Girgaon, 400004, Mumbai, India",Delivered,140,1
+5,FOO_EMP_6,FOO_5,R106,Tripple Shezwan Noodles,11:22:14,28-12-2021,2021-12-28 11:22:14,"7 nd Floor Singapori Bldg  J S S Road Kalbadevi, 400002, Mumbai, India",Delivered,235,1
+6,FOO_EMP_5,FOO_6,R101,Ravioli Pasta,10:42:51,17-01-2022,2022-01-17 10:42:51,"388  Kalbadevi Road Opp Kalbadevi Temple Kalbadevi, 400002, Mumbai, India",Delivered,215,1
+7,FOO_EMP_7,FOO_7,R104,Spaghetti with Meat Balls,20:03:26,29-01-2022,2022-01-29 20:03:26,"J K Chambers Sector 17 Vashi, 400703, Mumbai, India",Delivered,250,2
+8,FOO_EMP_6,FOO_8,R102,Cinnamon Rolls,08:07:12,02-02-2022,2022-02-02 08:07:12,"28  Jai Shri Siddhivinayak Chs Shivaji Ngr Thane , 400601, Mumbai, India",Delivered,140,8
+9,FOO_EMP_2,FOO_9,R104,Margherita Pizza,18:48:42,15-02-2022,2022-02-15 18:48:42,"W-71/b Ttc Indl Area Thane Belapur Rd Rabale Navi Mumbai, 400701, Mumbai, India",Delivered,99,3
+10,FOO_EMP_7,FOO_10,R103,Cold Coffee,10:56:08,16-02-2022,2022-02-16 10:56:08,"310 / Saifee Park Church Road Marol Andheri , 400059, Mumbai, India",Delivered,45,4
+11,FOO_EMP_7,FOO_11,R111,Chicken Lollipop,13:11:23,23-02-2022,2022-02-23 13:11:23,"485  A- Har Indl. Estate Sitaram Jadhav Marg Nr Lower Parel Station Lower Parel, 400013, Mumbai, India",Delivered,200,3
+12,FOO_EMP_6,FOO_12,R112,Dum Biryani,19:32:48,27-02-2022,2022-02-27 19:32:48,"42 nd Floor Harharwala Bldg No  A/b Light Kiran Showroom Lohar Chawl, 400002, Mumbai, India",Delivered,350,1
+13,FOO_EMP_5,FOO_13,R111,Chicken Shwarma,18:36:23,02-03-2022,2022-03-02 18:36:23,"43  Villa Vihar Chandansar Rd Virar, 401303, Mumbai, India",Delivered,140,3
+14,FOO_EMP_7,FOO_14,R112,Fajita Panini,11:45:28,03-03-2022,2022-03-03 11:45:28,"42  Abdul Gani Patra Chawl..  Sayani Road. Khed Galli Prabhadevi, 400025, Mumbai, India",Delivered,100,2
+15,FOO_EMP_2,FOO_15,R106,Paneer Tikka Momos,20:32:00,15-03-2022,2022-03-15 20:32:00,"Shop No 24 Nirman Vyapar Kendra Sector 17 Krishi Bazaar, 400705, Mumbai, India",Delivered,60,3
+16,FOO_EMP_7,FOO_16,R102,Chocolate Tiramisu,20:19:11,19-03-2022,2022-03-19 20:19:11,"53   Ranadhara Co Op Hse S V P Road Prarthana Samaj, 400004, Mumbai, India",Delivered,210,2
+17,FOO_EMP_6,FOO_17,R103,Crème Brulee,11:56:45,26-03-2022,2022-03-26 11:56:45,"244 /  Raman Smruit V P Road Near Prathna Samaj C.p.tank, 400004, Mumbai, India",Delivered,240,4
+18,FOO_EMP_6,FOO_18,R110,Cream of Mushroom Soup,15:26:29,13-04-2022,2022-04-13 15:26:29,"A1 Anupam Building L B S Marg W I Coop Society Ghatkopar , 400086, Mumbai, India",Delivered,170,1
+,,,,,,,,,,,

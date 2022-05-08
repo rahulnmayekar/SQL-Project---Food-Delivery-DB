@@ -1,0 +1,14 @@
+restaurant_id,restaurant_name,restaurant_phone,restaurant_address,Cuisine
+R101,Pizza Palace,91-855-529-8964,"Near Om Sai Kandivali , Mumbai,Mumbai,400067,India",Pizza
+R102,Sweet Dreams,91-755-595-6330,"A6 Girikunj Industrial Est Andherichakala Andheri , Mumbai,Mumbai,400093,India",Cakes
+R103,Sip thy coffee,91-755-546-1682,"Kailash Sadan Bldg 39 Bajaj Rd Vile Parle West , Mumbai,Mumbai,400056,India",Café
+R104,Joey Pizzeria,91-755-584-3366,"352 sentinel Hiranandani Iit Powai, Mumbai,Mumbai,400076,India",Pizza
+R105,Dynasty,91-755-564-2152,"25  E Nandjyoti Ind Estate A K Rd Andheri, Mumbai,Mumbai,400069,India",Chinese
+R106,Wok Hie,91-855-504-4789,"German Chawl Opp Hotel Rosewood Tulsiwadi, Mumbai,Mumbai,400034,India",Chinese
+R107,Steamy Mugs,91-925-550-0661,"Jayanti Niwas Juhu Church Rd Nr Hare Rama Hare Krishna Juhu, Mumbai,Mumbai,400049,India",Café
+R108,Anna Udipi,91-855-538-5674,"Galli Dadar, Mumbai,Mumbai,400028,India",South Indian
+R109,Rajappa Center,91-855-566-3571,"Shop No 12 Samrat ' A ' 314 L J Road Mahim, Mumbai,Mumbai,400016,India",South Indian
+R110,Persian Darbar,91-755-597-7613,"P 4 Eden Hall Dr Annie Besant Worli, Mumbai,Mumbai,400018,India",North Indian
+R111,Shalimar,91-955-552-6859," Nepeansea Rd Opp Priydarshani Park Nepeansea Ro, Mumbai,Mumbai,400036,India",North Indian
+R112,Achija,91-755-573-1603,"M.g.rd Ghatkopar , Mumbai,Mumbai,400077,India",Fast Food
+R113,Gurukripa,91-755-588-7612,"Durlabh Niwas, 1/461, Dr Baba Saheb Ambedkar Rd, Opp B.N. Maheshwari Udyan, Matunga, Mumbai, India",Fast Food

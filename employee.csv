@@ -1,0 +1,11 @@
+Employee_Id,Employee_First_Name,Employee_Last_name,Job_role,Salary,birth_date,joining_date,Phone_Number,Employee_Address
+FOO_EMP_1,Ali,Khan,Business Analyst,1000000,1993-07-03,2021-11-17,91-755-563-6262,"68 / Shop No  Sagar Bldg Dr Deshmukh Lane V.p.road C.p.tank, 400004, Mumbai, India"
+FOO_EMP_2,Ramesh,Kumar,Delivery Partner,300000,1980-06-26,2021-12-02,91-855-552-6192,"364  Vp Road Girgaon, 400004, Mumbai, India"
+FOO_EMP_3,Sagarika,Sahoo,Software Developer,850000,1982-06-01,2021-12-20,91-855-580-293,"82  Udyog Bhavan Sonawala Road Goregaon, 400063, Mumbai, India"
+FOO_EMP_4,Priyanshi,Parekh,HR Manager,700000,1985-12-10,2021-12-27,91-755-591-3981,"7  Khassamwala Bldg bhandari Street Mandvi, 400003, Mumbai, India"
+FOO_EMP_5,Derek,Fernandes,Delivery Partner,330000,1987-09-20,2022-01-09,91-855-593-9672,"18  Indira Niwas Avantikabai Gokhale Street Operahouse Opera House, 400004, Mumbai, India"
+FOO_EMP_6,Wasim,Shaikh,Delivery Partner,320000,1988-12-20,2022-01-24,91-925-559-1804,"5  Hongkong Arcade Sector  New Panvel Navi Mumbai, 410206, Mumbai, India"
+FOO_EMP_7,Hritik,Roy,Delivery Partner,350000,1989-06-23,2022-03-17,91-955-551-7984,"16  nd Floor Homi Modi Street Nr Bombay House Fort, 400001, Mumbai, India"
+FOO_EMP_8,Rehaan,Rastogi,Software Developer,850000,1993-03-18,2022-03-22,91-855-500-2273,"F-1 Shop No 12 Sector 9 Near Shabari Hotel Vashi Navi Mumbai, 400703, Mumbai, India"
+FOO_EMP_9,Sneha,Sikdar,Accountant,700000,1996-09-23,2022-03-23,91-855-592-3173,"29  Arun Bazar S.v.road Nr.bank Of India Malad , 400064, Mumbai, India"
+FOO_EMP_10,Ehsaan,Singh,COO,1200000,1999-05-26,2022-04-25,91-755-537-9783,"33 / Kkusum Niwas Narayan Joshi Rd Opp.old Tele Xchange Kandivli , 400067, Mumbai, India"
